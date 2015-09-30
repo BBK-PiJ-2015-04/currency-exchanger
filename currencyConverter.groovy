@@ -37,11 +37,7 @@ println "Exiting the program";
 
 println "And one last thing..."
 
-println "And another thing.."
-
-/* blah blah
-*/
-
+println "Hello World"
 
 
 
